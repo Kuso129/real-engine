@@ -1,0 +1,8 @@
+material_info {
+
+// material texture
+tex: resources/grs.jpg
+// material color
+color: 0.5 1 1
+
+}
