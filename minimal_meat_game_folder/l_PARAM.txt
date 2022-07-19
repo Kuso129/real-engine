@@ -1,0 +1,4 @@
+// exemple of wryting l_PARAM file
+
+// flag		// directory for you executable game file
+game_directory: game_DATA/game.exe
