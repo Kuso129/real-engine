@@ -1,9 +1,0 @@
-material_info {
-
-color: 0.15 0.1 1
-
-tex: resources/0.png
-
-filter: True
-
-}
