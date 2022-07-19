@@ -1,0 +1,10 @@
+// pack name
+target_name: pk001
+
+// images
+image: 0.png 09129
+image: 1.png fuck_67
+image: sky_8732.png sky_8732
+
+// models
+mesh: 3_cubes.obj mdl901

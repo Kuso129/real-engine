@@ -1,0 +1,12 @@
+material_info {
+
+// material texture
+tex: resources/0.png
+
+// material color
+color: 1 1 1
+
+// texture filtration
+filter: True
+
+}

@@ -1,0 +1,11 @@
+m_b{
+msh: resources/maps/d0b1
+pos: 0 0 -12
+ang: 0 0 0
+scl: 1
+}
+ent{
+en: base_fps_camera
+pos: 0 1.25 0
+ang: 0 0 0
+}
